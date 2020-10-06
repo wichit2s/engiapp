@@ -1,8 +1,10 @@
-# demoapp
+# EngiApp
 
-A new Flutter project.
+A flutter demo app to calculate search super hero from user given power and speed. 
 
-## Getting Started
+[](/docs/herocalculation-demo.webm)
+
+## Learn More....
 
 This project is a starting point for a Flutter application.
 
