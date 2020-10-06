@@ -2,7 +2,14 @@
 
 A flutter demo app to calculate search super hero from user given power and speed. 
 
-[](/docs/herocalculation-demo.webm)
+[demo](/docs/herocalculation-demo.webm)
+
+![demo](/docs/herocalculation-demo.webm)
+
+<figure class="video_container">
+  <iframe src="https://github.com/wichit2s/engiapp/blob/main/docs/herocalculation-demo.webm?raw=true" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 ## Learn More....
 
